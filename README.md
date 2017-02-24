@@ -17,3 +17,4 @@
 	 included in a readme using markdown, as well as justification’s for any frameworks and design patterns you have used.
 	- Include any further work you would add if you were given more time.
 	- The project should be able to run locally in an iOS simulator.
+	- Please submit your solution to a repo which we can have access too (e.g. github/bitbucket).
